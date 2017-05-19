@@ -1,11 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 
-You can find the most recent version of the react [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+You can find the most recent version of the react guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
-#React Tic-tac-toe
+# React Tic-tac-toe
 
-A simple game built following [this guide](https://facebook.github.io/react/tutorial/tutorial.html#getting-started)
+A simple browser game built following [this guide](https://facebook.github.io/react/tutorial/tutorial.html#getting-started).
 
 ## Before We Start
 
